@@ -13,6 +13,9 @@ Use the Package manager [Python](https://www.python.org/) to install numpy packa
 ```bash
 pip install numpy
 ```
+```bash 
+print ("Hello World")
+```
 
 ##usage
 
