@@ -98,7 +98,11 @@ Please make sure to update tests as appropirate.
 !text in orange
 #text in grey
 ```
-
+```diff
+-GOD
++UR DAD
+! UR PA PA
+#AM I A JOK TO YOU !!??
 ```diff
 -text 
 +word
