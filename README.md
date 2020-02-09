@@ -61,7 +61,7 @@ mergeable:
 ```
 
 ![alt](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
-![alt}(https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-jumbo.jpg)
+![alt](https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-jumbo.jpg)
 ![NightStalker](https://i.pinimg.com/564x/77/99/e7/7799e7786b7103c23e85832f59738fd6.jpg)
 ##Contributing
 
