@@ -103,6 +103,13 @@ Please make sure to update tests as appropirate.
 +UR DAD
 ! UR PA PA
 #AM I A JOK TO YOU !!??
+@Hello MY FRI
+$MONEY BRUHHHH!!!
+^HOOO HOO!!!
+&BO BO
+*KYAW GYI
+/WAT THR
+~PA LA TR
 ```
 
 ```diff
