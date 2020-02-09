@@ -39,14 +39,6 @@ set APP_HOME=%DIRNAME%
 if defined JAVA_HOME goto findJavaFromJavaHome
 ```
 
-![alt](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
-![alt](https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-jumbo.jpg)
-
-##Contributing
-
-```
-Pull Request are Welcome.For Major Changes,Please open an issue first to discuss what you would like to change.
-```
 ```C#
 mergeable:
   pull_requests:
@@ -66,6 +58,15 @@ mergeable:
           - must_include:
               regex: '^release notes: no'
               message: 'Please add the label (release notes: no)'
+```
+
+![alt](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
+![alt}(https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-jumbo.jpg)
+![NightStalker](https://i.pinimg.com/564x/77/99/e7/7799e7786b7103c23e85832f59738fd6.jpg)
+##Contributing
+
+```
+Pull Request are Welcome.For Major Changes,Please open an issue first to discuss what you would like to change.
 ```
 
 ```
